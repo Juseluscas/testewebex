@@ -39,6 +39,7 @@ if formato=="c":
         print ("arquivo:"+str(arquivo))
 
 elif formato=='w':
+    print("teste")
     
     run()
 
