@@ -36,14 +36,9 @@ def logica(comando,usermail):
     
     # Uso da funcao "mais"
 
-    if box == "mais" and len(sp)<2:
-        msg="Descubra sobre nossas principais ferramentas para ajudá-lo. Escreva:\n"
-        msg=msg+"mais sobre Cliente: conheça nosso programa semanal Quint@s Quinze\n"
-        msg=msg+"mais sobre Demos: nossas ferramentas de demonstração\n"
-        msg=msg+"mais sobre Projetos: nossa ferramenta para ajudar no desenvolvimento de projetos\n"
-        msg=msg+"mais sobre Treinamento: nossas ferramentas e programação de capacitação\n"
-        msg=msg+"mais sobre Suporte: Abertura de Chamados no Cisco TAC\n"
-        msg=msg+"mais sobre Alertas: assine nossas newsletter de Produtos\n"
+    if box == "Oi" and len(sp)<2:
+        msg="Aldo é um cara dahora:\n"
+     
 
 
     if len(sp)>2:
