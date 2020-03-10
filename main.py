@@ -4,6 +4,7 @@ from webexteams import ValidaWebhook
 from logica import logica
 from webserver import *
 
+
 # Testa existencia do Webhook. Caso negativo, cria
 msg=ValidaWebhook(webhook_name,webhook_url)
 # Imprime erro caso validacao do Webhook nao funcionou

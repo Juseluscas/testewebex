@@ -1,2 +1,2 @@
-requests==2.21.0
-webexteamssdk==1.1.1
+requests==2.23.0
+webexteamssdk==1.2
